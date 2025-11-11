@@ -1,5 +1,4 @@
-<h1 align="center">Hey,I'm Hari Shankar Limbu</h1>
-<h3 align="center">function life() { code(); sleep(); repeat(); }</h3>
+<h2 align="center">Hey,I'm Hari Shankar Limbu</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harishankarlimbu&label=Profile%20views&color=0e75b6&style=flat" alt="harishankarlimbu" /> </p>
 
@@ -10,7 +9,7 @@
 <a href="https://linkedin.com/in/iamashoklimbu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamashoklimbu" height="30" width="40" /></a>
 <a href="https://fb.com/ashok1o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashok1o" height="30" width="40" /></a>
 <a href="https://instagram.com/harishankarlimbu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harishankarlimbu" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/ashoklimbu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ashoklimbu/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/ashoklimbu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ashoklimbu/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
