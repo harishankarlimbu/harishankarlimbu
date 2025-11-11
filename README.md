@@ -1,5 +1,5 @@
 # About Me:
-⚡MERN Full-Stack Dev in training | 3 months into the code life  
+⚡MERN Full-Stack Dev in training | 6 months into the code life  
 
 
 ## Socials:
